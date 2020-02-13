@@ -33,7 +33,7 @@ def sorstream(f, dumptrace):
     results = dict()
     status = 'ok'
     
-    results['filename'] = os.path.basename( filename )
+    #results['filename'] = os.path.basename( filename )
     
     tracedata = []
     
